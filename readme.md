@@ -173,6 +173,6 @@ L'utilisateur pourra alors :
 
 Étudiant en cycle d'ingénieur — Génie de l'Intelligence Artificielle et Machine Learning
 
-Projet de Fin d'Études — SmartMonument (DUT Informatique Décisionnelle et Sciences de Données
+Projet de Fin d'Études — SmartMonument (DUT Informatique Décisionnelle et Sciences de Données)
 
 Maroc
