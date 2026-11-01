@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.streamlit/secrets.toml
+
+train/
+validation/
+image/
+
+requirements_old.txt
+desktop.ini
+*.log
+.ipynb_checkpoints/
